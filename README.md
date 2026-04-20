@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **a MERN Stack project**
 
-- 🌱 I'm currently learning **GraphQL and Blockchain**
+- 🌱 I'm currently learning **AWS**
 
 - 👯 I'm looking to collaborate on **open source project**
 
